@@ -1,5 +1,4 @@
 package pratina_c0929902_a1;
-
 class PratinaAssing {
     public static void main(String[] args) {
         // Single line comment
